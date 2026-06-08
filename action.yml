@@ -17,5 +17,5 @@ outputs:
   universal-sierra-compiler-version:
     description: The version of installed universal-sierra-compiler
 runs:
-  using: node20
+  using: node24
   main: "dist/setup/index.js"
